@@ -21,9 +21,3 @@ This project builds and compares three different control strategies—two-loop P
 ## Requirements
 - MATLAB
 - **Control System Toolbox** (for `lqr` and `place`)
-
-## How to Run
-1. Copy the provided MATLAB script into a file (e.g., `cartpole_shootout.m`).
-2. Open MATLAB and run:
-   ```matlab
-   cartpole_shootout
